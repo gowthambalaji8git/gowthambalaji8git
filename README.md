@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🛡️ Cybersecurity Enthusiast | SOC Analyst
+🛡️ Cybersecurity Enthusiast | Certified Ethical Hacker | Aspiring SOC Analyst
 
 🎓 B.Sc. Computer Science Graduate
 
