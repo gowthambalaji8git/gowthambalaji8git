@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me
 
 🛡️ Cybersecurity Enthusiast | Certified Ethical Hacker | Aspiring SOC Analyst
 
@@ -12,12 +12,12 @@
 
 📫 How to reach me: gowthambalaji119@gmail.com
 
-## 🌐 Socials:
+## 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowthambalaji-m-8279a5367/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthambalaji119@gmail.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iits_balaji__)
 
-## 💻 Tech Stack:
+## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,6 +35,12 @@
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/WEBSOCKET-000000?style=for-the-badge&logo=websocket&logoColor=white)
+![CORS](https://img.shields.io/badge/CORS-4A5568?style=for-the-badge)
+![dotenv](https://img.shields.io/badge/DOTENV-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
+![Pydantic](https://img.shields.io/badge/PYDANTIC-E92063?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Python Requests](https://img.shields.io/badge/PYTHON%20REQUESTS-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rule-Based Security Scoring](https://img.shields.io/badge/RULE--BASED%20SECURITY%20SCORING-8A2BE2?style=for-the-badge)
 ![Android](https://img.shields.io/badge/ANDROID-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/ANDROID%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Gradle](https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white)
@@ -55,6 +61,6 @@
 ### 🤖 CyberChatAI
 AI-powered cybersecurity assistant for learning cybersecurity concepts, SOC operations and security fundamentals. 🚧 In Progress
 
-### 💬 Quote
+### 💬 Cybersecurity Mindset
 
 > "Learn. Build. Secure. Improve. 🔐"
